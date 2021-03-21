@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{B770EFBC-9D9E-4647-9B7D-7C375EB0EE39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "StopWatch\StopWatch.csproj", "{F64F6DC9-C5B2-4F98-95FF-B2F02800CE5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflowPost", "StackOverflowPost\StackOverflowPost.csproj", "{08B83C96-1E62-4CD9-BA5D-3412E219BB73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B770EFBC-9D9E-4647-9B7D-7C375EB0EE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B770EFBC-9D9E-4647-9B7D-7C375EB0EE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B770EFBC-9D9E-4647-9B7D-7C375EB0EE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B770EFBC-9D9E-4647-9B7D-7C375EB0EE39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64F6DC9-C5B2-4F98-95FF-B2F02800CE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64F6DC9-C5B2-4F98-95FF-B2F02800CE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64F6DC9-C5B2-4F98-95FF-B2F02800CE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64F6DC9-C5B2-4F98-95FF-B2F02800CE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B83C96-1E62-4CD9-BA5D-3412E219BB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B83C96-1E62-4CD9-BA5D-3412E219BB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B83C96-1E62-4CD9-BA5D-3412E219BB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B83C96-1E62-4CD9-BA5D-3412E219BB73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
