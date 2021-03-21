@@ -3,20 +3,16 @@ namespace LinkedList
     public class ListNode
     {
         public ListNode Next { get; set; }
-        public Node Node { get; }
+        private Node Node { get; }
 
 
-        public ListNode()
-        {
-            Next = null;
-        }
+
         public ListNode(Node node)
-        : this()
         {
             Node = node;
         }
 
-        public ListNode(string id, string info) : this()
+        public ListNode(string id, string info)
         {
             Node = new Node(id, info);
         }

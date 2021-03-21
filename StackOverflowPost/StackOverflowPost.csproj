@@ -5,4 +5,26 @@
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Include="obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="obj\Debug\net5.0\apphost.exe" />
+      <Content Include="obj\Debug\net5.0\StackOverflowPost.AssemblyInfoInputs.cache" />
+      <Content Include="obj\Debug\net5.0\StackOverflowPost.assets.cache" />
+      <Content Include="obj\Debug\net5.0\StackOverflowPost.csproj.CoreCompileInputs.cache" />
+      <Content Include="obj\Debug\net5.0\StackOverflowPost.csproj.FileListAbsolute.txt" />
+      <Content Include="obj\Debug\net5.0\StackOverflowPost.csprojAssemblyReference.cache" />
+      <Content Include="obj\Debug\net5.0\StackOverflowPost.dll" />
+      <Content Include="obj\Debug\net5.0\StackOverflowPost.genruntimeconfig.cache" />
+      <Content Include="obj\Debug\net5.0\StackOverflowPost.pdb" />
+      <Content Include="obj\project.assets.json" />
+      <Content Include="obj\project.nuget.cache" />
+      <Content Include="obj\project.packagespec.json" />
+      <Content Include="obj\StackOverflowPost.csproj.nuget.dgspec.json" />
+      <Content Include="obj\StackOverflowPost.csproj.nuget.g.props" />
+      <Content Include="obj\StackOverflowPost.csproj.nuget.g.targets" />
+    </ItemGroup>
+
 </Project>

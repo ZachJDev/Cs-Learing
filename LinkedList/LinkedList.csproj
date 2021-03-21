@@ -5,4 +5,26 @@
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Include="obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="obj\Debug\net5.0\apphost.exe" />
+      <Content Include="obj\Debug\net5.0\LinkedList.AssemblyInfoInputs.cache" />
+      <Content Include="obj\Debug\net5.0\LinkedList.assets.cache" />
+      <Content Include="obj\Debug\net5.0\LinkedList.csproj.CoreCompileInputs.cache" />
+      <Content Include="obj\Debug\net5.0\LinkedList.csproj.FileListAbsolute.txt" />
+      <Content Include="obj\Debug\net5.0\LinkedList.csprojAssemblyReference.cache" />
+      <Content Include="obj\Debug\net5.0\LinkedList.dll" />
+      <Content Include="obj\Debug\net5.0\LinkedList.genruntimeconfig.cache" />
+      <Content Include="obj\Debug\net5.0\LinkedList.pdb" />
+      <Content Include="obj\LinkedList.csproj.nuget.dgspec.json" />
+      <Content Include="obj\LinkedList.csproj.nuget.g.props" />
+      <Content Include="obj\LinkedList.csproj.nuget.g.targets" />
+      <Content Include="obj\project.assets.json" />
+      <Content Include="obj\project.nuget.cache" />
+      <Content Include="obj\project.packagespec.json" />
+    </ItemGroup>
+
 </Project>

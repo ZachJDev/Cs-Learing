@@ -6,4 +6,38 @@
         <RootNamespace>UdemyExercises</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Include="obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" />
+      <Compile Include="obj\Debug\net5.0\UdemyExercises.AssemblyInfo.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="obj\Debug\net5.0\apphost.exe" />
+      <Content Include="obj\Debug\net5.0\StopWatch.AssemblyInfoInputs.cache" />
+      <Content Include="obj\Debug\net5.0\StopWatch.assets.cache" />
+      <Content Include="obj\Debug\net5.0\StopWatch.csproj.CoreCompileInputs.cache" />
+      <Content Include="obj\Debug\net5.0\StopWatch.csproj.FileListAbsolute.txt" />
+      <Content Include="obj\Debug\net5.0\StopWatch.csprojAssemblyReference.cache" />
+      <Content Include="obj\Debug\net5.0\StopWatch.dll" />
+      <Content Include="obj\Debug\net5.0\StopWatch.genruntimeconfig.cache" />
+      <Content Include="obj\Debug\net5.0\StopWatch.pdb" />
+      <Content Include="obj\Debug\net5.0\UdemyExercises.AssemblyInfoInputs.cache" />
+      <Content Include="obj\Debug\net5.0\UdemyExercises.assets.cache" />
+      <Content Include="obj\Debug\net5.0\UdemyExercises.csproj.CoreCompileInputs.cache" />
+      <Content Include="obj\Debug\net5.0\UdemyExercises.csproj.FileListAbsolute.txt" />
+      <Content Include="obj\Debug\net5.0\UdemyExercises.csprojAssemblyReference.cache" />
+      <Content Include="obj\Debug\net5.0\UdemyExercises.dll" />
+      <Content Include="obj\Debug\net5.0\UdemyExercises.genruntimeconfig.cache" />
+      <Content Include="obj\Debug\net5.0\UdemyExercises.pdb" />
+      <Content Include="obj\project.assets.json" />
+      <Content Include="obj\project.nuget.cache" />
+      <Content Include="obj\project.packagespec.json" />
+      <Content Include="obj\StopWatch.csproj.nuget.dgspec.json" />
+      <Content Include="obj\StopWatch.csproj.nuget.g.props" />
+      <Content Include="obj\StopWatch.csproj.nuget.g.targets" />
+      <Content Include="obj\UdemyExercises.csproj.nuget.dgspec.json" />
+      <Content Include="obj\UdemyExercises.csproj.nuget.g.props" />
+      <Content Include="obj\UdemyExercises.csproj.nuget.g.targets" />
+    </ItemGroup>
+
 </Project>
