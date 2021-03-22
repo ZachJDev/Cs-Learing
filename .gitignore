@@ -1,6 +1,7 @@
 *.suo
 *.user
 _ReSharper.*
+.idea
 bin/
 obj/
 packages
