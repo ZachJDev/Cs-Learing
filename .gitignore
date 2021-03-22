@@ -1,11 +1,9 @@
 *.suo
 *.user
 _ReSharper.*
-*/bin/
-*/obj/
+bin/
+obj/
 packages
 .idea
 StopWatch/obj/Debug/net5.0/StopWatch.dll
 
-/LinkedList/*
-/LinkedList/obj/
