@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "StopWatch\Stop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflowPost", "StackOverflowPost\StackOverflowPost.csproj", "{08B83C96-1E62-4CD9-BA5D-3412E219BB73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitchenBlender", "KitchenBlender\KitchenBlender.csproj", "{63C7C2CE-D6E4-4FB9-9747-F8EB53706EDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{08B83C96-1E62-4CD9-BA5D-3412E219BB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08B83C96-1E62-4CD9-BA5D-3412E219BB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08B83C96-1E62-4CD9-BA5D-3412E219BB73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C7C2CE-D6E4-4FB9-9747-F8EB53706EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C7C2CE-D6E4-4FB9-9747-F8EB53706EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C7C2CE-D6E4-4FB9-9747-F8EB53706EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C7C2CE-D6E4-4FB9-9747-F8EB53706EDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
